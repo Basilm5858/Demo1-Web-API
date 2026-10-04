@@ -1,0 +1,387 @@
+[
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.CategoryController",
+    "Method": "GetById",
+    "RelativePath": "api/Category/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.CategoryController",
+    "Method": "Create",
+    "RelativePath": "api/Category/EndPoint1",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.DTOs.CreateCategoryDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.CategoryController",
+    "Method": "GetAll",
+    "RelativePath": "api/Category/EndPoint2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.CategoryController",
+    "Method": "Update",
+    "RelativePath": "api/Category/EndPoint3",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dto",
+        "Type": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.DTOs.UpdateVehicleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.CategoryController",
+    "Method": "Delete",
+    "RelativePath": "api/Category/EndPoint4",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.CustomerController",
+    "Method": "GetById",
+    "RelativePath": "api/Customer/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.CustomerController",
+    "Method": "Create",
+    "RelativePath": "api/Customer/EndPoint1",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.DTOs.CreateCustomerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.CustomerController",
+    "Method": "Update",
+    "RelativePath": "api/Customer/EndPoint3",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dto",
+        "Type": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.DTOs.UpdateCustomerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.CustomerController",
+    "Method": "Delete",
+    "RelativePath": "api/Customer/EndPoint4",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.EmployeeController",
+    "Method": "GetById",
+    "RelativePath": "api/Employee/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.EmployeeController",
+    "Method": "Create",
+    "RelativePath": "api/Employee/EndPoint1",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.DTOs.CreateEmployeeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.EmployeeController",
+    "Method": "GetAll",
+    "RelativePath": "api/Employee/EndPoint2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.EmployeeController",
+    "Method": "Update",
+    "RelativePath": "api/Employee/EndPoint3",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dto",
+        "Type": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.DTOs.UpdateEmployeeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.EmployeeController",
+    "Method": "Delete",
+    "RelativePath": "api/Employee/EndPoint4",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.SaleController",
+    "Method": "GetById",
+    "RelativePath": "api/Sale/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.SaleController",
+    "Method": "Create",
+    "RelativePath": "api/Sale/EndPoint1",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.DTOs.CreateSaleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.SaleController",
+    "Method": "GetAll",
+    "RelativePath": "api/Sale/EndPoint2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.SaleController",
+    "Method": "Update",
+    "RelativePath": "api/Sale/EndPoint3",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dto",
+        "Type": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.DTOs.UpdateSaleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.SaleController",
+    "Method": "Delete",
+    "RelativePath": "api/Sale/EndPoint4",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.VehicleController",
+    "Method": "GetById",
+    "RelativePath": "api/Vehicle/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.VehicleController",
+    "Method": "Create",
+    "RelativePath": "api/Vehicle/EndPoint1",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.DTOs.CreateVehicleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.VehicleController",
+    "Method": "GetAll",
+    "RelativePath": "api/Vehicle/EndPoint2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.VehicleController",
+    "Method": "Update",
+    "RelativePath": "api/Vehicle/EndPoint3",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dto",
+        "Type": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.DTOs.UpdateVehicleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Controllers.VehicleController",
+    "Method": "Delete",
+    "RelativePath": "api/Vehicle/EndPoint4",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

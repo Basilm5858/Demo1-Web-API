@@ -22,10 +22,3 @@ namespace CAR_DEALERSHIP_MANAGEMENT_SYSTEM_Demo1.Models
         public ICollection<Sale> Sales { get; set; } = new List<Sale>();
     }
 }
-
-//Id int Primary key, auto-incremented
-//FullName string Required, max 150
-//Position string Required, max 100
-//Email string Required, valid email, unique
-//Phone string Optional, max 20
-//HireDate DateTime Required

@@ -3,124 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\repo\\impelmentation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\repo\\impelmentation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\mapping\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\mapping\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\repo\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\repo\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\repo\\interfaces\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\repo\\interfaces\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\repo\\impelmentation\\customerprofilecustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\repo\\impelmentation\\customerprofilecustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\repo\\impelmentation\\customercustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\repo\\impelmentation\\customercustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\repo\\impelmentation\\vehiclecustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\repo\\impelmentation\\vehiclecustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\repo\\impelmentation\\salescustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\repo\\impelmentation\\salescustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\repo\\impelmentation\\employeecustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\repo\\impelmentation\\employeecustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\repo\\impelmentation\\categorycustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\repo\\impelmentation\\categorycustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\repo\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\repo\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\repo\\interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\repo\\interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\repo\\interfaces\\isales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\repo\\interfaces\\isales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\repo\\interfaces\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\repo\\interfaces\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\repo\\interfaces\\icustomerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\repo\\interfaces\\icustomerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\controllers\\customerprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\controllers\\customerprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\repo\\impelmentation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\repo\\impelmentation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\repo\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\repo\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\data\\my_appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\data\\my_appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\models\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\models\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|c:\\users\\basel.muhammed\\desktop\\car dealership management system_demo1\\car dealership management system_demo1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFB3E86-C911-48DD-8813-F07756814FE1}|CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1.csproj|solutionrelative:car dealership management system_demo1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,397 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\UnitOfWork.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\UnitOfWork.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T11:49:33.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\IUnitOfWork.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T11:47:30.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerProfileCustomRepo.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\CustomerProfileCustomRepo.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\CustomerProfileCustomRepo.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\CustomerProfileCustomRepo.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\CustomerProfileCustomRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T11:46:35.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomerCustomRepo.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\CustomerCustomRepo.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\CustomerCustomRepo.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\CustomerCustomRepo.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\CustomerCustomRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T11:45:44.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VehicleCustomRepo.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\VehicleCustomRepo.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\VehicleCustomRepo.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\VehicleCustomRepo.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\VehicleCustomRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T11:45:06.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICategory.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ICategory.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ICategory.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ICategory.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ICategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T10:16:46.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VehicleController.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\VehicleController.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\VehicleController.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\VehicleController.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\VehicleController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA2wBMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T10:14:49.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SalesCustomRepo.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\SalesCustomRepo.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\SalesCustomRepo.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\SalesCustomRepo.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\SalesCustomRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T11:44:31.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmployeeCustomRepo.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\EmployeeCustomRepo.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\EmployeeCustomRepo.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\EmployeeCustomRepo.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\EmployeeCustomRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T11:43:16.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\IEmployee.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\IEmployee.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\IEmployee.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\IEmployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T11:40:55.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IVehicle.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\IVehicle.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\IVehicle.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\IVehicle.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\IVehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T11:40:17.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ISales.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ISales.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ISales.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ISales.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ISales.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T11:39:33.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ICustomer.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ICustomer.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ICustomer.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ICustomer.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ICustomer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T11:39:02.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ICustomerProfile.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ICustomerProfile.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ICustomerProfile.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ICustomerProfile.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ICustomerProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T11:35:49.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategoryCustomRepo.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\CategoryCustomRepo.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\CategoryCustomRepo.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\CategoryCustomRepo.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\CategoryCustomRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T10:54:35.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SaleController.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\SaleController.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\SaleController.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\SaleController.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\SaleController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T10:16:21.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T10:16:08.212Z",
+              "WhenOpened": "2026-10-04T12:18:30.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CustomerProfileController.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\CustomerProfileController.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\CustomerProfileController.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\CustomerProfileController.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\CustomerProfileController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\DTOs\\CustomerDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T10:15:55.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T12:01:52.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 3,
+              "Title": "CustomerCustomRepo.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\CustomerCustomRepo.cs",
+              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\CustomerCustomRepo.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\CustomerCustomRepo.cs",
+              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\CustomerCustomRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T12:01:14.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomer.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ICustomer.cs",
+              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ICustomer.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ICustomer.cs",
+              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\ICustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T12:01:12.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\CustomerController.cs",
               "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwDAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T10:15:44.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T12:00:04.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Mapping\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Mapping\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Mapping\\MapperProfile.cs",
+              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Mapping\\MapperProfile.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T10:15:02.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GenericRepo.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\GenericRepo.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\GenericRepo.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\GenericRepo.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Impelmentation\\GenericRepo.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T10:10:34.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IGenericRepo.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\IGenericRepo.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\IGenericRepo.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\IGenericRepo.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Repo\\Interfaces\\IGenericRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T10:08:25.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Program.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Program.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Program.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T08:56:45.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "My_AppContext.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Data\\My_AppContext.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Data\\My_AppContext.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Data\\My_AppContext.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Data\\My_AppContext.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAADwvz4AAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T09:18:43.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Sale.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Sale.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Sale.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Sale.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Sale.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T09:10:04.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Employee.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Employee.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T09:08:45.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CustomerProfile.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\CustomerProfile.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\CustomerProfile.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\CustomerProfile.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\CustomerProfile.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T09:07:36.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Customer.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T09:04:01.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Vehicle.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Vehicle.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Vehicle.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Vehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T09:00:54.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Category.cs",
-              "RelativeToolTip": "CAR DEALERSHIP MANAGEMENT SYSTEM_Demo1\\Models\\Category.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T08:59:47.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T08:22:28.32Z"
             }
           ]
         }
